@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>3.jpg</filename>
+	<path>D:\Ball_detector\Tensorflow\workspace\images\collectedimages\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>219</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>26</ymin>
+			<xmax>166</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

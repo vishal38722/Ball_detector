@@ -1,0 +1,38 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>13.jpg</filename>
+	<path>D:\Ball_detector\Tensorflow\workspace\images\collectedimages\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>26</ymin>
+			<xmax>106</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Human Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>37</ymin>
+			<xmax>238</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

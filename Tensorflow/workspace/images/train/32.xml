@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>32.jpg</filename>
+	<path>D:\Ball_detector\Tensorflow\workspace\images\collectedimages\32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>17</ymin>
+			<xmax>148</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
